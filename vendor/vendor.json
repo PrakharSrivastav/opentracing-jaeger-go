@@ -1,0 +1,164 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "s3c9d3lwR+yTKY+mLGOHvKQebiY=",
+			"origin": "github.com/uber/jaeger-client-go/vendor/github.com/codahale/hdrhistogram",
+			"path": "github.com/codahale/hdrhistogram",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "MBp+pIPVFcb2V92LePBlJ096p4U=",
+			"origin": "github.com/PrakharSrivastav/tracing/vendor/github.com/opentracing/opentracing-go",
+			"path": "github.com/opentracing/opentracing-go",
+			"revision": "8b5a441dc60e8d9bb9bf9d22060b6d94fa599983",
+			"revisionTime": "2018-11-29T20:22:57Z"
+		},
+		{
+			"checksumSHA1": "XPOyfxsryU1pByZESwduVu9OEQU=",
+			"origin": "github.com/uber/jaeger-client-go/vendor/github.com/opentracing/opentracing-go/ext",
+			"path": "github.com/opentracing/opentracing-go/ext",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "tnkdNJbJxNKuPZMWapP1xhKIIGw=",
+			"origin": "github.com/PrakharSrivastav/tracing/vendor/github.com/opentracing/opentracing-go/log",
+			"path": "github.com/opentracing/opentracing-go/log",
+			"revision": "8b5a441dc60e8d9bb9bf9d22060b6d94fa599983",
+			"revisionTime": "2018-11-29T20:22:57Z"
+		},
+		{
+			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
+			"origin": "github.com/uber/jaeger-client-go/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "9JF0HfwNlRf1MVAqpAUGrLukpZw=",
+			"path": "github.com/uber/jaeger-client-go",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "n0IcgkLEOYuFPP+S8+VQuGZY6I0=",
+			"path": "github.com/uber/jaeger-client-go/config",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "KM5UXTWkHULmw0dDRNuk8ogWyGs=",
+			"path": "github.com/uber/jaeger-client-go/internal/baggage",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "tZqlcHV1XoLdZp9jfnydzsZAvYo=",
+			"path": "github.com/uber/jaeger-client-go/internal/baggage/remote",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "QB0L0GrzyMGQp6ivkkxp7a1DPsE=",
+			"path": "github.com/uber/jaeger-client-go/internal/spanlog",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "79HRO/+ekkpwqDB/OMiW+AHJtlE=",
+			"path": "github.com/uber/jaeger-client-go/internal/throttler",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "OVQDWFtFMs+NODe0F/S5kYViQco=",
+			"path": "github.com/uber/jaeger-client-go/internal/throttler/remote",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "tMP/vxbHwNAbOEaUhic5/meKfac=",
+			"path": "github.com/uber/jaeger-client-go/log",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "j4WrA/B2SJCqHxttCQ+TYbmtQqE=",
+			"path": "github.com/uber/jaeger-client-go/rpcmetrics",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "+ffspyTBQLql2UiU6muvfWR/m1o=",
+			"path": "github.com/uber/jaeger-client-go/thrift",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "fMIQ4sJFCkqFYhXvvLKIlofqxvY=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/agent",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "fRR2p+JAp7paApf32YuQuWU7yzY=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/baggage",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "JZkMEOmiOFFEuGCsDOVLK5RzvMM=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/jaeger",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "0teQUhTqTE1fLs+vbnTTzWOqdEQ=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/sampling",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "Nx5witfz05BSO2YlFzh2Gno6bA0=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/zipkincore",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "UlW+AcyeItWM0x1W4vT9hbUiOJs=",
+			"path": "github.com/uber/jaeger-client-go/transport",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "DKwwIk9vq53IKO7RKccat9cnqeo=",
+			"path": "github.com/uber/jaeger-client-go/utils",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "75TnQZImz4+3ghf/deOh3lZR03Y=",
+			"origin": "github.com/uber/jaeger-client-go/vendor/github.com/uber/jaeger-lib/metrics",
+			"path": "github.com/uber/jaeger-lib/metrics",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		},
+		{
+			"checksumSHA1": "k18XhVv02S+/ikiVBVpLlGdkex0=",
+			"path": "github.com/yurishkuro/opentracing-tutorial/go/lib/tracing",
+			"revision": "a4df7de0783849ce8204be93f39ca93f8a510a68",
+			"revisionTime": "2018-11-09T23:04:51Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"origin": "github.com/uber/jaeger-client-go/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "7df3a19391621162a641c017e549fbc40ca6c914",
+			"revisionTime": "2018-12-06T17:57:24Z"
+		}
+	],
+	"rootPath": "github.com/PrakharSrivastav/tracing"
+}
