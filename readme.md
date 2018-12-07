@@ -1,6 +1,7 @@
 # Setup
+Using OpenTracing api specs with jaeger client and jaeger backend 
 
-Run the below docker image for jager-tracer backend
+Run the below docker image for jaeger-tracer backend
 
 ```
 docker run \
